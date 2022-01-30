@@ -1,0 +1,14 @@
+body{
+    background-color: teal;
+    color: white;
+}
+.clock{
+    font-size: 100px;
+    color: whitesmoke;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
